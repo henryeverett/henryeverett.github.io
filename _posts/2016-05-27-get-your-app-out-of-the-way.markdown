@@ -11,6 +11,7 @@ If I could give one piece of advice to someone about their user-facing product i
 It's so easy to muddy your UI with cool features that actually end up obscuring the end goal of your user journey. I work at Happiour, a London-based coupon app which lists nearby time-sensitive offers. The app has evolved through various iterations to get to where it is today and it's still evolving. The original conception of the app was focussed heavily on using basic social networking features within the app to increase retention of users. We built this and released it and to our surprise our users weren't using the features. On further digging into our analytics, it turned out that the social features were interrupting the core user journey!
 
 ![Happiour Invite View]({{site.baseurl}}/_posts/invite-screen.png)
+![Happiour Invite Screen]({{site.baseurl}}/invite-screen.png)
 
 
 Scaling back the social features helped clarify that journey and taught us a couple of important lessons. First of all, prioritise your users' goals above your business goals, because ultimately if your users aren't interested in your product, you don't have a business. We thought that providing an invite system within the app would keep users hooked, while that may work further down the line, it's crucial that the product's core journey is easy and clear enough first that users *want* to invite their friends.
