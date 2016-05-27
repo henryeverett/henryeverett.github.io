@@ -1,0 +1,19 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Nice Product
+description: > # this means to ignore newlines until "baseurl:"
+  Nice Product is a blog about the process of product management, and the love, design and code that goes into it.
+  I can be found on Twitter <a class='twitter' href='https://www.twitter.com/henryeverett'>@henryeverett</a>
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://heyproduct.com" # the base hostname & protocol for your site
+twitter_username: henryeverett
+github_username:  henryeverett
+
+# Build settings
+markdown: kramdown
