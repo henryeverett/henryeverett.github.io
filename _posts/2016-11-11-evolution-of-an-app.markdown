@@ -1,4 +1,8 @@
 ---
+layout: post
+title: Evolution of an App
+date: "2016-05-26 11:01:11 +0000"
+categories: "product-management apps"
 published: true
 ---
 
