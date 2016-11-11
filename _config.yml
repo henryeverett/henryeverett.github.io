@@ -8,7 +8,7 @@
 # Site settings
 title: Nice Product
 description: > # this means to ignore newlines until "baseurl:"
-  Nice Product is a blog about the process of product management, and the love, design and code that goes into it.
+  Nice Product is a blog about the process of creating great digital products, and the love, design and code that goes into it.
   I can be found on Twitter <a class='twitter' href='https://www.twitter.com/henryeverett'>@henryeverett</a>
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://heyproduct.com" # the base hostname & protocol for your site
