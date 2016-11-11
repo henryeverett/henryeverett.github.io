@@ -2,7 +2,7 @@
 published: false
 ---
 
-I started at Happiour a year and a half ago. Picking up the design and development of the iOS app from an agency who had been building it on Happiour's behalf. After spending time with the app and learning its goals and its priorities I set about deciding how it should evolve as we moved forward. Most decisions were focussed on making the user's journey more direct, more seamless and fast. In this post I'll examine the major steps we took and the thought that went into them.
+I started at Happiour nearly two years ago. I picked up the responsibility for design and development of the iOS app from a 3rd party agency. After spending time with the app and learning its goals and its priorities, I set about deciding how it should evolve as a product. Most of my decisions around the product were focussed on crystallising the core user journey through the app.  In this post I'll examine the major steps we took and the thought that went into them.
 
 ### Version 1.x
 ![happiour_1_shots.png]({{site.baseurl}}/happiour_1_shots.png)
